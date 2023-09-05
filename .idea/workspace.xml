@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21bf0841-53d6-43be-b5d3-bf71fae5adfb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2USLrxBhnVXt4w8WaPbpMTU7Tcj" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/duthu/OneDrive/J/IdealProject/blogSelf&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\duthu\OneDrive\J\IdealProject\internet_behavior_project-main\redis\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.anryg.bigdata.test.data_skew" />
+      <recent name="com.anryg.bigdata.streaming.sparkbatch" />
+      <recent name="com.anryg.bigdata.streaming.dwd" />
+      <recent name="com.anryg.bigdata.streaming.analysis" />
+      <recent name="com.anryg.bigdata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DataSkewTestPartitionOpt">
+    <configuration name="DataSkewTestPartition" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.anryg.bigdata.test.data_skew.DataSkewTestPartition" />
+      <module name="spark-coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anryg.bigdata.test.data_skew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSkewTestPartitionOpt" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.anryg.bigdata.test.data_skew.DataSkewTestPartitionOpt" />
+      <module name="spark-coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anryg.bigdata.test.data_skew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anryg.bigdata.IPClient" />
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anryg.bigdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPClient2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anryg.bigdata.IPClient2" />
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anryg.bigdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkBatchFromOdsToDwdPoolLocal" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.anryg.bigdata.streaming.sparkbatch.SparkBatchFromOdsToDwdPoolLocal" />
+      <module name="spark-coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anryg.bigdata.streaming.sparkbatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataSkewTestPartitionOpt" />
+        <item itemvalue="Application.DataSkewTestPartition" />
+        <item itemvalue="Application.SparkBatchFromOdsToDwdPoolLocal" />
+        <item itemvalue="Application.IPClient2" />
+        <item itemvalue="Application.IPClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21bf0841-53d6-43be-b5d3-bf71fae5adfb" name="Changes" comment="" />
+      <created>1692928238973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692928238973</updated>
+      <workItem from="1692928240336" duration="5195000" />
+      <workItem from="1692958989217" duration="8130000" />
+      <workItem from="1692977380583" duration="365000" />
+      <workItem from="1692977763704" duration="52000" />
+      <workItem from="1693011036756" duration="596000" />
+      <workItem from="1693035202788" duration="6315000" />
+      <workItem from="1693045639556" duration="9598000" />
+      <workItem from="1693095838076" duration="7431000" />
+      <workItem from="1693119491821" duration="5229000" />
+      <workItem from="1693182613104" duration="8702000" />
+      <workItem from="1693219111843" duration="7397000" />
+      <workItem from="1693266900956" duration="10118000" />
+      <workItem from="1693282789834" duration="7395000" />
+      <workItem from="1693291309134" duration="119000" />
+      <workItem from="1693309179946" duration="15179000" />
+      <workItem from="1693356952580" duration="2803000" />
+      <workItem from="1693360060544" duration="428000" />
+      <workItem from="1693363481718" duration="1096000" />
+      <workItem from="1693366691570" duration="2838000" />
+      <workItem from="1693371283384" duration="719000" />
+      <workItem from="1693372241900" duration="1238000" />
+      <workItem from="1693390102980" duration="1474000" />
+      <workItem from="1693396666451" duration="2278000" />
+      <workItem from="1693440209049" duration="14755000" />
+      <workItem from="1693471114556" duration="9533000" />
+      <workItem from="1693486259119" duration="1833000" />
+      <workItem from="1693531525429" duration="5430000" />
+      <workItem from="1693554254814" duration="16325000" />
+      <workItem from="1693814616561" duration="11060000" />
+      <workItem from="1693872589846" duration="9051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/redis/src/main/java/com/anryg/bigdata/IPUtils.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/redis/src/main/java/com/anryg/bigdata/IPClient2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/redis/src/main/java/com/anryg/bigdata/IPClient2.java</url>
+          <line>5</line>
+          <properties class="com.anryg.bigdata.IPClient2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
